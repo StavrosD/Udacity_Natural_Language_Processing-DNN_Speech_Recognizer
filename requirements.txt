@@ -1,0 +1,9 @@
+tornado
+ipykernel
+jupyter
+librosa
+opencv-python
+python-speech-features
+seaborn
+soundfile
+nest-asyncio

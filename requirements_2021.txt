@@ -1,0 +1,6 @@
+librosa
+opencv-python
+python-speech-features
+seaborn==0.7.1
+soundfile
+nest-asyncio
